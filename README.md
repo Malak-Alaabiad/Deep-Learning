@@ -3,7 +3,8 @@
 This repository contains Jupyter notebooks showcasing deep learning techniques applied to real-world problems. These examples leverage powerful deep learning libraries such as TensorFlow and PyTorch and include GPU acceleration for performance optimization.
 
 🚀 Deep Learning Notebooks
-1. Handling Imbalanced Datasets
+## 1. Handling Imbalanced Datasets
+
 ### Objective: 
 Address the challenges of training models with imbalanced datasets.
 
